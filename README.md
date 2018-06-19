@@ -1,5 +1,7 @@
 # YOLOV2-predict-use-tensorflow
 加载tensorflow的pb模型，实现目标检测功能
+参考：https://blog.csdn.net/dabudaodexiaoqiang/article/details/80738837
+
 环境要求：
 
 系统：windows7_X64
@@ -7,6 +9,8 @@
 Tensorflow 1.4
 
 Opencv3
+
+python3.5
 
 先看一下目录结构：
 
